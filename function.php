@@ -1,7 +1,6 @@
 
 <?php
 
-
 function intSequence($first, $last) {
 
     for ($i = $first; $i <= $last; $i++) {
